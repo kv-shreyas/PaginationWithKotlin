@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PagingWIthKotlin</string>
+
+    <string-array name="sorting_options">
+        <item>Ascending</item>
+        <item>Descending</item>
+        <item>MOD 2</item>
+        <!-- Add more sorting options as needed -->
+    </string-array>
+</resources>
+
